@@ -1,6 +1,6 @@
 ## Hello 👋
 
-I'm [Hitesh Kumar Saini](https://github.com/alexmercerind), a **Flutter** (+ Platform channels, Provider, BLoC) & **React.js** (+ React Router, React Native) developer. I mainly write C++, Dart, Python & JavaScript. I'm an IT student.
+I'm [Hitesh Kumar Saini](https://github.com/alexmercerind), a **Flutter** (+ FFI, Platform channels, Provider, BLoC) & **React.js** (+ React Router, React Native) developer. I mainly write C++, Dart, Python & JavaScript. I'm an IT student.
 
 **My popular projects are pinned below.** Most projects that I've built are unique & used in a number of applications.
 
