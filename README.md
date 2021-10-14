@@ -6,9 +6,9 @@ My popular projects are pinned below. Most projects that I've built are unique &
 
 💬 Mail me at <saini123hitesh@gmail.com> & connect with me on my [Twitter](https://twitter.com/alexmercerind).
 
-
+<!--
 ![](https://github.com/alexmercerind/github-stats/blob/master/generated/overview.svg?raw=true)
 ![](https://github.com/alexmercerind/github-stats/blob/master/generated/languages.svg?raw=true)
-
+-->
 
 Let's build experiences that users love. 🚀
