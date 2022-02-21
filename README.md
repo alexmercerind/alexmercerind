@@ -10,4 +10,6 @@ Few of my popular projects are pinned below. Most projects that I've built are u
 ![](https://github.com/alexmercerind/github-stats/blob/master/generated/languages.svg?raw=true)
 
 
-Let's build experiences that users love. 🚀
+Let's build experiences that users love & packages/libraries that developers like. 🚀
+
+Donate to fund my open work on GitHub: [PayPal](https://paypal.me/alexmercerind) | [Buy Me A Coffee](https://www.buymeacoffee.com/alexmercerind).
