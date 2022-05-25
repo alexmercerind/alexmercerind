@@ -14,5 +14,4 @@ Few of my popular projects are pinned below. Other than Flutter & React, I enjoy
 
 Let's build experiences that users love & packages/libraries that developers like. 🚀
 
-Donate to fund my open work on GitHub: [PayPal](https://paypal.me/alexmercerind) | [Buy Me A Coffee](https://www.buymeacoffee.com/alexmercerind).
-
+You may consider [sponsoring my work](https://github.com/sponsors/alexmercerind), if you find what I make useful.
