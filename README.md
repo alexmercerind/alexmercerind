@@ -1,6 +1,6 @@
 ## Hello 👋
 
-✨ Checkout [my website](https://alexmercerind.github.io/about/) to know better about me!
+✨ Checkout [my website](https://alexmercerind.github.io/) to know better about me!
 
 I'm [Hitesh Kumar Saini](https://github.com/alexmercerind) ([@alexmercerind](https://github.com/alexmercerind)), a Flutter (+ FFI, Platform channels, BLoC, Provider) & React.js (+ React Router, React Native) developer. I mainly write C++, Dart, Python & JavaScript. I'm an IT student @ [GBPUAT](https://gbpuat.ac.in/).
 
