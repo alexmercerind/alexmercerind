@@ -3,7 +3,6 @@
   "mandatory": true,
   "message": "You can't skip this one! Can you? 😏",
   "platforms": [
-    "windows",
     "linux",
     "android"
   ]
