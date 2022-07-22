@@ -1,7 +1,7 @@
 {
-  "version": "v0.2.6",
+  "version": "v0.2.7",
   "mandatory": true,
-  "message": "There's a new update for you!",
+  "message": "You can't skip this one! Can you? 😏",
   "platforms": [
     "windows",
     "linux",
