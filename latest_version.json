@@ -1,8 +1,9 @@
 {
-  "version": "v0.2.7",
+  "version": "v0.2.6",
   "mandatory": true,
-  "message": "You can't skip this one! Can you? 😏",
+  "message": "There's a new update for you!",
   "platforms": [
+    "windows",
     "linux",
     "android"
   ]
