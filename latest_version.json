@@ -1,4 +1,9 @@
 {
   "version": "0.2.6",
-  "mandatory": false
+  "mandatory": false,
+  "platforms", [
+    "windows",
+    "linux",
+    "android"
+  ]
 }
