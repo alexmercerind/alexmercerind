@@ -2,6 +2,7 @@
   "version": "v0.2.6",
   "mandatory": true,
   "message": "A new version has been released!",
+  "url": "https://harmonoid.com",
   "platforms": [
     "windows",
     "linux",
