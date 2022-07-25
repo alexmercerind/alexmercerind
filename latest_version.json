@@ -5,7 +5,6 @@
   "url": "https://harmonoid.com",
   "platforms": [
     "windows",
-    "linux",
-    "android"
+    "linux"
   ]
 }
