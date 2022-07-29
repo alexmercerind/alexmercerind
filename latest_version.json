@@ -1,6 +1,6 @@
 {
   "version": "v0.2.6",
-  "mandatory": true,
+  "mandatory": false,
   "message": "A new version has been released!",
   "url": "https://harmonoid.com",
   "platforms": [
