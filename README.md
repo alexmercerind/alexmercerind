@@ -27,7 +27,7 @@ I'm **Hitesh Kumar Saini** ([@alexmercerind](https://github.com/alexmercerind)).
       Provider, BLoC, Riverpod, GoRouter, FFI, platform channels, drift, freezed etc.
       <br>
       <strong>Android: </strong>
-      Views/XML, Compose, Room, Ktor, Retrofit, Navigation, MVVM, Coroutines, Flows etc.
+      Views, Compose, Room, Ktor, Retrofit, Navigation, MVVM, Coroutines, Flows etc.
       <br>
       <strong>React.js: </strong>
       React Router, Context API
