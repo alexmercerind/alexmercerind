@@ -23,11 +23,15 @@ I'm **Hitesh Kumar Saini** ([@alexmercerind](https://github.com/alexmercerind)).
   <tr>
     <td>Frameworks & Libraries</td>
     <td>
-      Flutter
+      <strong>Flutter: </strong>
+      Provider, BLoC, Riverpod, GoRouter, FFI, platform channels, drift, freezed etc.
       <br>
-      Android
+      <strong>Android: </strong>
+      Views/XML, Compose, Room, Ktor, Retrofit, Navigation, MVVM, Coroutines, Flows etc.
       <br>
-      React.js
+      <strong>React.js: </strong>
+      React Router, Context API
+      <br>
     </td>
   </tr>
   <tr>
@@ -60,7 +64,7 @@ I'm **Hitesh Kumar Saini** ([@alexmercerind](https://github.com/alexmercerind)).
 
 <hr>
 
-I am a student in my final year. Looking for full-time opportunities from 2024 H2.
+I am a student in my final year & looking for full-time opportunities from 2024 H2.
 
 <!--
 
