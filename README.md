@@ -2,9 +2,9 @@
 
 I'm **Hitesh Kumar Saini** ([@alexmercerind](https://github.com/alexmercerind)).
 
-<a href="https://linkedin.com/in/hitesh-kumar-saini"><img src="https://github.com/alexmercerind/alexmercerind/assets/28951144/c5046308-eacc-43e8-9e51-87586ef82a73" width="48" height="48"></a>
-<a href="https://x.com/alexmercerind"><img src="https://github.com/alexmercerind/alexmercerind/assets/28951144/d8406b69-7304-4b9b-a804-02e2721d1ef2" width="48" height="48"></a>
-<a href="mailto:saini123hitesh@gmail.com"><img src="https://github.com/alexmercerind/alexmercerind/assets/28951144/8847d405-c0fd-4c23-b925-aa69c89b5eb2" width="48" height="48"></a>
+<a href="https://linkedin.com/in/hitesh-kumar-saini"><img src="https://github.com/alexmercerind/alexmercerind/assets/28951144/c5046308-eacc-43e8-9e51-87586ef82a73" width="42" height="42"></a>
+<a href="https://x.com/alexmercerind"><img src="https://github.com/alexmercerind/alexmercerind/assets/28951144/d8406b69-7304-4b9b-a804-02e2721d1ef2" width="42" height="42"></a>
+<a href="mailto:saini123hitesh@gmail.com"><img src="https://github.com/alexmercerind/alexmercerind/assets/28951144/8847d405-c0fd-4c23-b925-aa69c89b5eb2" width="42" height="42"></a>
 
 ### Interests
 
@@ -30,7 +30,7 @@ I'm **Hitesh Kumar Saini** ([@alexmercerind](https://github.com/alexmercerind)).
       Views, Compose, Room, Ktor, Retrofit, Navigation, MVVM, Coroutines, Flows etc.
       <br>
       <strong>React.js: </strong>
-      React Router, Context API
+      React Router, Context API etc.
       <br>
     </td>
   </tr>
@@ -64,7 +64,7 @@ I'm **Hitesh Kumar Saini** ([@alexmercerind](https://github.com/alexmercerind)).
 
 <hr>
 
-I am a student in my final year & looking for full-time opportunities from 2024 H2.
+Looking for full-time opportunities from 2024 H2. Get in touch! 🤝
 
 <!--
 
