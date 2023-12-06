@@ -64,7 +64,7 @@ I'm **Hitesh Kumar Saini** ([@alexmercerind](https://github.com/alexmercerind)).
 
 <hr>
 
-Looking for full-time opportunities from 2024 H2. Get in touch! 🤝
+Looking for full-time opportunities from 2024 H2. Please get in touch! 🤝
 
 <!--
 
