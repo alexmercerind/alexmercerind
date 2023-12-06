@@ -23,13 +23,13 @@ I'm **Hitesh Kumar Saini** ([@alexmercerind](https://github.com/alexmercerind)).
   <tr>
     <td>Frameworks & Libraries</td>
     <td>
-      <strong>Flutter: </strong>
+      <strong>Flutter: </strong><br>
       Provider, BLoC, Riverpod, GoRouter, FFI, platform channels, drift, freezed etc.
       <br>
-      <strong>Android: </strong>
-      Views, Jetpack Compose, Room, Ktor, Retrofit, Navigation, MVVM, Coroutines, Flows etc.
+      <strong>Android: </strong><br>
+      Views/XML, Jetpack Compose, Room, Ktor, Retrofit, Navigation, MVVM, Coroutines, Flows etc.
       <br>
-      <strong>React.js: </strong>
+      <strong>React.js: </strong><br>
       React Router, Context API etc.
       <br>
     </td>
