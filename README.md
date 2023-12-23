@@ -13,7 +13,7 @@ I'm **Hitesh Kumar Saini** ([@alexmercerind](https://github.com/alexmercerind)).
 - Native interop.
 - System & low-level APIs.
 - Multimedia, video/audio playback & parsing.
-- Web applications & websites.
+- Web applications.
 - Web scraping.
 - Reverse engineering.
 
