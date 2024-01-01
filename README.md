@@ -37,11 +37,11 @@ I'm **Hitesh Kumar Saini** ([@alexmercerind](https://github.com/alexmercerind)).
   <tr>
     <td>Programming Languages</td>
     <td>
-      Dart, Kotlin, Java
+      Kotlin, Java, Dart
       <br>
       C++, C
       <br>
-      JavaScript, Python
+      JavaScript
     </td>
   </tr>
   <tr>
@@ -49,9 +49,7 @@ I'm **Hitesh Kumar Saini** ([@alexmercerind](https://github.com/alexmercerind)).
     <td>
       Git
       <br>
-      Visual Studio Code, Android Studio
-      <br>
-      Visual Studio
+      Visual Studio Code, Visual Studio, Android Studio
     </td>
   </tr>
   <tr>
