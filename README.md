@@ -24,7 +24,7 @@ I'm **Hitesh Kumar Saini** ([@alexmercerind](https://github.com/alexmercerind)).
     <td>Frameworks & Libraries</td>
     <td>
       <strong>Android: </strong><br>
-      Views/XML, Jetpack Compose, Room, Ktor, Retrofit, Navigation, MVVM, Coroutines, Flows etc.
+      Views/XML, Jetpack Compose, Room, Ktor, Retrofit, Navigation, MVVM, coroutines, flows etc.
       <br>
       <strong>Flutter: </strong><br>
       Provider, BLoC, Riverpod, GoRouter, FFI, platform channels, drift, freezed etc.
