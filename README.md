@@ -62,7 +62,15 @@ I'm **Hitesh Kumar Saini** ([@alexmercerind](https://github.com/alexmercerind)).
 
 <hr>
 
-Looking for full-time opportunities from 2024 H2. Please get in touch! 🤝
+<table>
+  <tr>
+    <td>
+      I am a final-year B. Tech. IT student; looking for job opportunities. If you have any Android or Flutter positions, please get in touch. I'll be really glad to hand over my resume & participate in the interview process etc.<br>
+      Thanks!
+    </td>
+  </tr>
+</table>
+
 
 <!--
 
