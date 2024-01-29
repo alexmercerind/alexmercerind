@@ -62,6 +62,8 @@ I'm **Hitesh Kumar Saini** ([@alexmercerind](https://github.com/alexmercerind)).
 
 <hr>
 
+<!--
+
 <table>
   <tr>
     <td>
@@ -71,6 +73,7 @@ I'm **Hitesh Kumar Saini** ([@alexmercerind](https://github.com/alexmercerind)).
   </tr>
 </table>
 
+-->
 
 <!--
 
