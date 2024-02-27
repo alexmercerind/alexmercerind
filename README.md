@@ -62,6 +62,8 @@ I'm **Hitesh Kumar Saini** ([@alexmercerind](https://github.com/alexmercerind)).
 
 <hr>
 
+**Looking for full-time positions starting in July 2024.**
+
 <!--
 
 <table>
