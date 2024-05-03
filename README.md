@@ -60,6 +60,8 @@ I'm **Hitesh Kumar Saini** ([@alexmercerind](https://github.com/alexmercerind)).
   </tr>
 </table>
 
+<!--
+
 <hr>
 
 <table>
@@ -69,17 +71,6 @@ I'm **Hitesh Kumar Saini** ([@alexmercerind](https://github.com/alexmercerind)).
       &nbsp;&nbsp;&nbsp;<strong>Looking for full-time positions starting in July 2024.</strong>&nbsp;&nbsp;&nbsp;
       <br>
       <br>
-    </td>
-  </tr>
-</table>
-
-<!--
-
-<table>
-  <tr>
-    <td>
-      I am a final-year B. Tech. IT student; looking for job opportunities. If you have any Android or Flutter positions, please get in touch. I'll be really glad to hand over my resume & participate in the interview process etc.<br>
-      Thanks!
     </td>
   </tr>
 </table>
