@@ -85,10 +85,3 @@ I'm **Hitesh Kumar Saini** ([@alexmercerind](https://github.com/alexmercerind)).
 </table>
 
 -->
-
-<!--
-
-![](https://github.com/alexmercerind/github-stats/blob/master/generated/overview.svg?raw=true)
-![](https://github.com/alexmercerind/github-stats/blob/master/generated/languages.svg?raw=true)
-
--->
