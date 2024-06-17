@@ -60,19 +60,15 @@ I'm **Hitesh Kumar Saini** ([@alexmercerind](https://github.com/alexmercerind)).
   </tr>
 </table>
 
-<!--
-
 <hr>
 
 <table>
   <tr>
     <td>
       <br>
-      &nbsp;&nbsp;&nbsp;<strong>Looking for full-time positions starting in July 2024.</strong>&nbsp;&nbsp;&nbsp;
+      &nbsp;&nbsp;&nbsp;<strong>Looking for full-time Android and/or Flutter positions.</strong>&nbsp;&nbsp;&nbsp;
       <br>
       <br>
     </td>
   </tr>
 </table>
-
--->
