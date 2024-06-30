@@ -23,15 +23,9 @@ I'm **Hitesh Kumar Saini** ([@alexmercerind](https://github.com/alexmercerind)).
   <tr>
     <td>Frameworks & Libraries</td>
     <td>
-      <strong>Android: </strong><br>
-      Views/XML, Compose, Room, SQLDelight, Retrofit, Ktor, MVVM, MVI, coroutines, flows etc.
-      <br>
-      <strong>Flutter: </strong><br>
-      Provider, BLoC, Riverpod, GoRouter, FFI, platform channels, drift, freezed etc.
-      <br>
-      <strong>React.js: </strong><br>
-      React Router, Context API etc.
-      <br>
+      <div>Android</div>
+      <div>Flutter</div>
+      <div>React.js</div>
     </td>
   </tr>
   <tr>
@@ -60,6 +54,8 @@ I'm **Hitesh Kumar Saini** ([@alexmercerind](https://github.com/alexmercerind)).
   </tr>
 </table>
 
+<!--
+
 <hr>
 
 <table>
@@ -72,3 +68,5 @@ I'm **Hitesh Kumar Saini** ([@alexmercerind](https://github.com/alexmercerind)).
     </td>
   </tr>
 </table>
+
+-->
