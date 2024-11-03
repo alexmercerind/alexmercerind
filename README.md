@@ -43,7 +43,7 @@ I'm **Hitesh Kumar Saini** ([@alexmercerind](https://github.com/alexmercerind)).
     <td>
       Git
       <br>
-      Visual Studio Code, Visual Studio, Android Studio
+      Android Studio, Visual Studio, Visual Studio Code
     </td>
   </tr>
   <tr>
