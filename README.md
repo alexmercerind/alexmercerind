@@ -1,6 +1,6 @@
 ## Hello 👋
 
-I'm **Hitesh Kumar Saini** ([@alexmercerind](https://github.com/alexmercerind)).
+I'm **Hitesh** ([@alexmercerind](https://github.com/alexmercerind)). Get in touch:
 
 <a href="https://linkedin.com/in/hitesh-kumar-saini"><img src="https://github.com/alexmercerind/alexmercerind/assets/28951144/c5046308-eacc-43e8-9e51-87586ef82a73" width="42" height="42"></a>
 <a href="https://x.com/alexmercerind"><img src="https://github.com/alexmercerind/alexmercerind/assets/28951144/d8406b69-7304-4b9b-a804-02e2721d1ef2" width="42" height="42"></a>
@@ -35,7 +35,7 @@ I'm **Hitesh Kumar Saini** ([@alexmercerind](https://github.com/alexmercerind)).
       <br>
       C++, C
       <br>
-      JavaScript
+      TypeScript, JavaScript
     </td>
   </tr>
   <tr>
@@ -43,7 +43,7 @@ I'm **Hitesh Kumar Saini** ([@alexmercerind](https://github.com/alexmercerind)).
     <td>
       Git
       <br>
-      Android Studio, Visual Studio, Visual Studio Code
+      Android Studio, Visual Studio Code, Visual Studio
     </td>
   </tr>
   <tr>
