@@ -23,9 +23,8 @@ I'm **Hitesh** ([@alexmercerind](https://github.com/alexmercerind)). Get in touc
   <tr>
     <td>Frameworks & Libraries</td>
     <td>
-      <div>Android</div>
-      <div>Flutter</div>
-      <div>React.js</div>
+      <div>Android, Flutter</div>
+      <div>React.js, Angular</div>
     </td>
   </tr>
   <tr>
