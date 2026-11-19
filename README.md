@@ -1,10 +1,7 @@
 <table>
   <tr>
     <td>
-      <br>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Get in touch at:</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <br>
-      <br>
+      <p align="center"><strong>Get in touch at:</strong></p>
       <p align="center">
         <a href="https://linkedin.com/in/hitesh-kumar-saini"><img src="https://github.com/alexmercerind/alexmercerind/assets/28951144/c5046308-eacc-43e8-9e51-87586ef82a73" width="42" height="42"></a>
         <a href="https://x.com/alexmercerind"><img src="https://github.com/alexmercerind/alexmercerind/assets/28951144/d8406b69-7304-4b9b-a804-02e2721d1ef2" width="42" height="42"></a>
